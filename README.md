@@ -23,7 +23,17 @@ BOM:
    - 1/4 in Nut
    - C Clamp
  * Electronics
+   - 1x Raspberry Pi Pico 2 (the original Pico suffices, but the refresh rate is limited).
+   - 1x Seeed Studio AMS5600 (https://github.com/Seeed-Studio/Seeed_Arduino_AS5600)
+   - 1x Female Surface Mount DP9 connector (WARNING: THIS IS NOT WIRED AS A SERIAL PORT)
+   - 1x Male DP9 connector
+   - 2x 20-pin Header (for Mounting Pico)
+  
 
+
+
+
+The project uses Rob Tillaart's AS5600 library, which was modified to work with the Coolterm application. It captures the serial data coming from the pico and allows us to convert it to .csv files for analysis in Python. 
 
 
 ![427270126-35df8393-7bbd-4267-811a-d3e66f37b43e](https://github.com/user-attachments/assets/02f635be-ecdf-4b45-a772-7c40736b350e)
