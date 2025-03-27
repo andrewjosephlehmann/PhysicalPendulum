@@ -13,8 +13,15 @@ BOM:
 
  * Structural
    - 2x 608 Ball Bearings (In our case, we used Bronson Speed Raw Bearings, which are designed to operate without bearings, hoping to increase the decay constant).
-   - 1x
-
+   - 1x 8mm x 100mm Linear Motion Steel Rod
+   - 1x 200mm 2020 Aluminum Extrusion
+   - 4x 12mm M5 Screws
+   - 4x M5 T Slot Nuts
+   - 3x 12mm M3 Screws
+   - 3x M3 Nuts
+   - 1/4 in x 6 in Zinc Plated Threaded Rod
+   - 1/4 in Nut
+ * Electronics
 
 
 
