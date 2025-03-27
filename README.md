@@ -21,6 +21,7 @@ BOM:
    - 3x M3 Nuts
    - 1/4 in x 6 in Zinc Plated Threaded Rod
    - 1/4 in Nut
+   - C Clamp
  * Electronics
 
 
