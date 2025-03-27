@@ -23,7 +23,7 @@ BOM:
    - C Clamp
  * Electronics
    - 1x Raspberry Pi Pico 2 (the original Pico suffices, but the refresh rate is limited).
-   - 1x Seeed Studio AMS5600 (https://github.com/Seeed-Studio/Seeed_Arduino_AS5600)
+   - 1x Seeed Studio AS5600 (https://github.com/Seeed-Studio/Seeed_Arduino_AS5600)
    - 1x Female Surface Mount DP9 connector (WARNING: THIS IS NOT WIRED AS A SERIAL PORT)
    - 1x Male DP9 connector
    - 2x 20-pin Header (for Mounting Pico)
