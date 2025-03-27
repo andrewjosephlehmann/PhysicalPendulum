@@ -11,7 +11,7 @@ The 3D models were printed at the Center for Entrepreneurship located at the Sch
 BOM: 
 
  * Structural
-   - 2x 608 Ball Bearings (In our case, we used Bronson Speed Raw Bearings, which are designed to operate without bearings, hoping to increase the decay constant).
+   - 2x 608 Ball Bearings (In our case, we used Bronson Speed Raw Bearings, which are designed to operate without lubricant).
    - 1x 8mm x 100mm Linear Motion Steel Rod
    - 1x 200mm 2020 Aluminum Extrusion
    - 4x 12mm M5 Screws
