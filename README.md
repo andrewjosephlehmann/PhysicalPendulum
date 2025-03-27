@@ -38,4 +38,13 @@ The project uses Rob Tillaart's AS5600 library, which was modified to work with 
 
 NOTE: Some of the sample data do not include sufficient error bars, as repeated runs are required to quantify the uncertainty of the sample measurements.
 
+The prototype board for the pendulum project:
+
+
+![6F82B84D-5D8C-470F-9DA2-09985D97BB51_1_102_o](https://github.com/user-attachments/assets/2f0261b5-c05a-4d1f-b419-30fb91ddcb8e)
+
+![32B6ADBF-5FC1-44E5-9E8D-EF83007C5942_1_102_o](https://github.com/user-attachments/assets/e0092940-0822-446a-91dc-420a0e831980)
+
+The entire apparatus, will provide a better photo once I bring the pendulum back to campus.
+
 ![427270126-35df8393-7bbd-4267-811a-d3e66f37b43e](https://github.com/user-attachments/assets/02f635be-ecdf-4b45-a772-7c40736b350e)
