@@ -36,4 +36,7 @@ BOM:
 The project uses Rob Tillaart's AS5600 library, which was modified to work with the Coolterm application. It captures the serial data coming from the pico and allows us to convert it to .csv files for analysis in Python. 
 
 
+
+NOTE: Some of the sample data do not include uncertainty, as repeated runs are required to quantify the uncertainty of our measurement.
+
 ![427270126-35df8393-7bbd-4267-811a-d3e66f37b43e](https://github.com/user-attachments/assets/02f635be-ecdf-4b45-a772-7c40736b350e)
