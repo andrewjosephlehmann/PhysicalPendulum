@@ -3,8 +3,10 @@ My Pendulum apparatus for PHY324's Pendulum Project:
 
 <img width="526" alt="Screenshot 2025-03-26 at 19 32 58" src="https://github.com/user-attachments/assets/2317d2ae-17eb-4f89-a0ac-dcca59504d93" />
 
+![image](https://github.com/user-attachments/assets/62d13f2d-60bd-4d47-b6b1-0719ab746421)
 
 The 3D models were printed at the Center for Entrepreneurship located at the Schwartz Reisman Innovation Campus at the University of Toronto. The 3MF parts were printed with Bambu Labs PLA basic, and the printer was the Bambu Lab X1 Carbon. 
+
 
 
 
