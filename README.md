@@ -31,6 +31,12 @@ BOM:
 
 
 
+Parts: 
+
+   Part (A) : PivotPoint.stl
+   Part (B) : Masstorod.stl
+   Part (C) : AxleToMagnet.stl
+   Part (D) : ThreadToPivot.stl
 
 The project uses Rob Tillaart's AS5600 library, which was modified to work with the Coolterm application. It captures the serial data coming from the pico and allows us to convert it to .csv files for analysis in Python. 
 
