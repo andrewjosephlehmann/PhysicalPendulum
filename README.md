@@ -20,8 +20,8 @@ BOM:
    - 4x M5 T Slot Nuts
    - 3x 12mm M3 Screws
    - 3x M3 Nuts
-   - 1/4 in x 6 in Zinc Plated Threaded Rod
-   - 1/4 in Nut
+   - 1/4x20 - 6 inch in Zinc Plated Threaded Rod
+   - 1/4x20 in Nut
    - C Clamp
  * Electronics
    - 1x Raspberry Pi Pico 2 (the original Pico suffices, but the refresh rate is limited).
